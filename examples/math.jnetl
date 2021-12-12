@@ -1,0 +1,3 @@
+#!/bin/no-interpreter
+:def *a [ === (:output ^of [:math, 2, +, 2])
+:prnt *a

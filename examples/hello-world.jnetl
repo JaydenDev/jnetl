@@ -1,0 +1,4 @@
+#!/bin/no-interpreter
+:print /'hello, world';
+:declare [ *hw === /'hello, world' ];
+:print *hw;
